@@ -9,4 +9,5 @@ func main() {
 	fmt.Printf("B")
 	fmt.Printf("C")
 	fmt.Println("D")
+	fmt.Println("Sebelum stash")
 }
